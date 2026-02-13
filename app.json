@@ -25,6 +25,16 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "1fb94555-7423-4607-98bd-15a2045534ac"
+      }
+    },
+    "owner": "dition0221"
   }
 }
